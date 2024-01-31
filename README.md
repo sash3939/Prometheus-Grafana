@@ -61,6 +61,10 @@
 - [ ] Прикрепите к файлу README.md скриншот конфигурации из интерфейса Prometheus вкладки Status > Configuration
 - [ ] Прикрепите к файлу README.md скриншот из интерфейса Prometheus вкладки Status > Targets, чтобы было видно минимум два эндпоинта
 
+#### Решение
+[Configuration](https://github.com/sash3939/Prometheus-Grafana/assets/156709540/1c5383da-36b0-434d-ad8b-cc73bde6f75d)
+[Targets](https://github.com/sash3939/Prometheus-Grafana/assets/156709540/d9e9371e-4ba1-4995-80d5-ffcc65f8fd88)
+
 ---
 ## Дополнительные задания со звёздочкой*
 Эти задания дополнительные. Их можно не выполнять. Это не повлияет на зачёт. Вы можете их выполнить, если хотите глубже разобраться в материале.
